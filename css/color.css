@@ -1,0 +1,138 @@
+/*ID SELECTORS*/
+* {
+  box-sizing: border-box;
+}
+#submit {
+  color: white;
+  background: rgb(23, 20, 68);
+}
+/*ELEMENT SELECTORS*/
+h3 {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: lighter;
+}
+
+h4 {
+  color: darkgoldenrod;
+}
+.travel {
+  background-color: rgb(190, 132, 5);
+  border-radius: 5px;
+}
+.reservation {
+  background: rgb(23, 20, 68);
+
+  border-radius: 5px;
+}
+.form {
+  background-color: darkgoldenrod;
+  border-radius: 5px;
+}
+.box {
+  border: 2px solid;
+  padding: 15px;
+  height: 1500px;
+  width: 600px;
+  align-content: center;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(239, 239, 243);
+}
+.a {
+  background-color: white !important;
+}
+.b {
+  background-color: white !important;
+}
+#Closing {
+  color: rgba(250, 250, 250, 1);
+  background-color: #06275a;
+  border-radius: 5px;
+}
+.relative {
+  font-size: 1.5em;
+}
+
+.absolute {
+  font-size: 25px;
+}
+/* OTHERS PART*/
+
+.Contacts {
+  background: rgba(0, 0, 250, 0.1);
+  height: 30vh;
+  width: 100wh;
+  border-radius: 1em;
+  border-color: aliceblue;
+}
+
+#listed {
+  background: rgba(96, 92, 92, 0.1);
+  width: 500px;
+  height: 20px;
+  border-radius: 5px;
+}
+.container {
+  display: flex;
+  column-gap: 20px;
+}
+
+/*BOXES FROM 1 TO 4*/
+.box1 {
+  color: white;
+  background: #07cadf;
+  font-weight: bolder;
+  font-family: Georgia;
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.box2 {
+  color: white;
+  background: #dfc607;
+  font-weight: bolder;
+  font-family: Georgia;
+  padding: 30px;
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+  margin-right: 20px;
+  overflow: hidden;
+  overflow: scroll;
+}
+.box3 {
+  color: white;
+  background: #0704a0;
+  font-weight: bolder;
+  font-family: Georgia;
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+.box4 {
+  color: white;
+  background: #770707;
+  font-weight: bolder;
+  font-family: Georgia;
+  padding: 30px;
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+  margin-right: 20px;
+  overflow: hidden;
+
+}
+
+/*BOTH SIDES OF THE PAGE*/
+
+.both {
+  display: flex;
+  column-gap: 20px;
+}
+
+/*CSS FOR CASE TWO*/
